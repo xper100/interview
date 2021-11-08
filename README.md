@@ -73,9 +73,9 @@
 
 - 좋은 feature란 무엇인가요. 이 feature의 성능을 판단하기 위한 방법에는 어떤 것이 있나요?
 
+> 데이터셋에 여러번 등장하며 분명하고 명확한 의미를 담고있는 feature ex) 나이: 27 vs 나이: 2571
 
-> 목적변수 (타겟값)과 상관관계가 있지만, 다른 설명변수(feature)와는 상관관계가 없는 feature
-
+참고: *https://developers.google.com/machine-learning/crash-course/representation/qualities-of-good-features?hl=ko*
 
 - "상관관계는 인과관계를 의미하지 않는다"라는 말이 있습니다. 설명해주실 수 있나요?
 
